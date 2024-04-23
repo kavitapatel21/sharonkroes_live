@@ -1,0 +1,1144 @@
+# Translation of Plugins - Smart Grid-Layout Design for Contact Form 7 - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Smart Grid-Layout Design for Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-08 12:26:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Smart Grid-Layout Design for Contact Form 7 - Stable (latest release)\n"
+
+#: admin/partials/helpers/cf7sg-js-events.php:253
+#: admin/partials/helpers/cf7sg-js-events.php:263
+msgid "custom options"
+msgstr "aangepaste opties"
+
+#: admin/partials/helpers/cf7sg-js-events.php:255
+msgid "HybridDropdown: "
+msgstr "HybridDropdown: "
+
+#: admin/partials/helpers/cf7sg-js-events.php:245
+msgid "Select2: "
+msgstr "Select2: "
+
+#: admin/class-cf7-grid-layout-admin.php:1815
+msgid "CF7 plugin udpate requires you to revalidate your forms."
+msgstr "Om de update van de CF7 plugin uit te voeren, moet je je formulieren opnieuw valideren."
+
+#: includes/class-cf7sg-dynamic-list.php:755
+msgid "Unlimited selections"
+msgstr "Onbeperkte selecties"
+
+#: includes/class-cf7sg-dynamic-list.php:754
+msgid "Limit selections"
+msgstr "Beperk selecties"
+
+#: includes/class-cf7sg-dynamic-list.php:749
+#: includes/class-cf7sg-dynamic-list.php:750
+msgid "<a href=\"%s\">Filter</a> term images"
+msgstr "<a href=\"%s\">Filter</a> term afbeeldingen"
+
+#: includes/class-cf7sg-dynamic-list.php:747
+msgid "<a href=\"%s\">Image grid</a>, no dropdown"
+msgstr "<a href=\"%s\">Afbeeldingsraster</a>, geen keuzelijst"
+
+#: admin/partials/pointers/cf7sg-pointer-tag-ui-editor-tags.php:4
+msgid "Select a table cell first"
+msgstr "Selecteer eerst een tabelcel"
+
+#: admin/partials/pointers/cf7sg-pointer-tag-dynamic-checkbox.php:4
+msgid "Dynamic checkbox field"
+msgstr "Dynamisch selectievakje"
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:171
+msgid "redirect on submit."
+msgstr "Doorsturen bij het verzenden."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:217
+msgid "user added term."
+msgstr "gebruiker toegevoegde term."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:99
+msgid "options attributes."
+msgstr "attributen opties."
+
+#: admin/partials/cf7-grid-layout-admin-display.php:187
+msgctxt "toggle label"
+msgid "No"
+msgstr "Nee"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:187
+msgctxt "toggle label"
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/partials/cf7-dynamic-tag-display.php:272
+msgid "Filter by terms"
+msgstr "Filteren op termen"
+
+#: admin/partials/cf7-dynamic-tag-display.php:263
+msgid "Include post thumbnails"
+msgstr "Bericht thumbnails insluiten"
+
+#: admin/partials/cf7-dynamic-tag-display.php:192
+msgid "Include branches"
+msgstr "Vertakkingen opnemen"
+
+#: admin/class-cf7-grid-layout-admin.php:1353
+msgid "Filter imagegrid image sources"
+msgstr "Afbeeldingsraster afbeeldingsbronnen filteren"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:144
+msgid "Slider control"
+msgstr "Slider controle"
+
+#: admin/partials/cf7-dynamic-tag-display.php:108
+msgid "Other attributes"
+msgstr "Andere attributen"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:195
+msgid "user added post."
+msgstr "gebruiker heeft een bericht geplaatst."
+
+#: includes/class-cf7sg-dynamic-list.php:742
+msgid "dynamic-checkbox"
+msgstr "dynamisch-selectievakje"
+
+#: admin/partials/cf7-dynamic-tag-display.php:22
+msgid "%s field"
+msgstr "%s veld"
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:134
+msgid "to access valid submit data."
+msgstr "om toegang te krijgen tot geldig verzonden gegevens."
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:134
+msgid "Action"
+msgstr "Actie"
+
+#: admin/partials/cf7-redirect-metabox-display.php:46
+msgid "day"
+msgstr "dag"
+
+#: admin/partials/cf7-redirect-metabox-display.php:43
+msgid "hour"
+msgstr "uur"
+
+#: admin/partials/cf7-redirect-metabox-display.php:40
+msgid "minute"
+msgstr "minuut"
+
+#: admin/partials/cf7-redirect-metabox-display.php:31
+msgid "Cache the submitted form data for"
+msgstr "Cache de ingediende formuliergegevens voor"
+
+#: admin/partials/cf7-redirect-metabox-display.php:25
+msgid "Select a page"
+msgstr "Selecteer een pagina"
+
+#: admin/partials/cf7-redirect-metabox-display.php:20
+msgid "Redirect on successful form submission to"
+msgstr "Doorverwijzen bij succesvolle formulierverzending naar"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:90
+msgid "Localize"
+msgstr "Lokaliseren"
+
+#: admin/partials/helpers/cf7sg-js-events.php:131
+msgid "tab count"
+msgstr "tab teller"
+
+#: admin/partials/helpers/cf7sg-js-events.php:113
+msgid "remove tab"
+msgstr "verwijder tab"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:90
+msgid "custom js script."
+msgstr "aangepast js script."
+
+#: public/class-cf7-grid-layout-public.php:562
+msgid "deprecated action hook"
+msgstr "verouderde actie hook"
+
+#: public/class-cf7-grid-layout-public.php:495
+#: public/class-cf7-grid-layout-public.php:1950
+#: public/class-cf7-grid-layout-public.php:1972
+#: public/class-cf7-grid-layout-public.php:2432
+msgid "this filter is no longer available"
+msgstr "deze filter is niet langer beschikbaar"
+
+#: admin/partials/helpers/cf7sg-js-events.php:72
+msgid "remove last row"
+msgstr "verwijder de laatste rij"
+
+#: admin/partials/helpers/cf7sg-js-events.php:66
+msgid "row count"
+msgstr "rij teller"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/cf7-grid-layout/"
+msgstr "https://wordpress.org/plugins/cf7-grid-layout/"
+
+#: admin/class-cf7-grid-layout-admin.php:395
+msgid "There is a <strong>Javascript error on the page</strong> which prevents the editor from loading properly."
+msgstr "Er is een <strong>Javascript fout op de pagina</strong> waardoor de bewerker niet goed kan laden."
+
+#: admin/partials/pointers/cf7sg-pointer-tutorial-advance.php:4
+msgid "New video tutorials"
+msgstr "Nieuwe video handleiding"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:82
+msgid "Prefill"
+msgstr "Vooraf invullen"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:69
+msgid "hidden fields."
+msgstr "verborgen velden."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:195
+#: admin/partials/helpers/cf7sg-pre-form-load.php:69
+msgid "Insert"
+msgstr "Invoegen"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:33
+msgid "Pro-help"
+msgstr "Professionele hulp"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:82
+msgid "form fields."
+msgstr "formuliervelden."
+
+#: admin/partials/pointers/cf7sg-pointer-tutorial-advance.php:5
+msgid "New video tutorial on advance concepts of the Smart Grid-layout extension."
+msgstr "Nieuwe video handleiding over geavanceerde concepten van de Smart Grid lay-out extensie."
+
+#. translators: %s is the link to the tuorial page
+#: admin/class-cf7-grid-layout-admin.php:1788
+msgid "There is a new tutorial for <a href=\"%s\">modular form construct</a>"
+msgstr "Er is een nieuwe handleiding voor <a href=\"%s\">modulaire formulier constructie</a>"
+
+#: admin/class-cf7-grid-layout-admin.php:1967
+msgid "Preview/View CF7 forms on the front-end"
+msgstr "Bekijk CF7-formulieren als een voorbeeld aan de front-end"
+
+#: admin/class-cf7-grid-layout-admin.php:1957
+msgid "Not found in Trash"
+msgstr "Niet gevonden in prullenmand"
+
+#: admin/class-cf7-grid-layout-admin.php:1956
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#. translators: link to preview page with form
+#: admin/partials/cf7-info-metabox-display.php:19
+msgid "Preview <a href=\"%s\">form</a>"
+msgstr "Voorbeeld <a href=\"%s\">formulier</a>"
+
+#: admin/class-cf7-grid-layout-admin.php:1945
+#: admin/class-cf7-grid-layout-admin.php:1966
+msgid "CF7 Form"
+msgstr "CF7 formulier"
+
+#: admin/class-cf7-grid-layout-admin.php:1944
+msgid "CF7 Forms"
+msgstr "CF7 formulieren"
+
+#: admin/class-cf7-grid-layout-admin.php:1943
+msgctxt "Post Type Singular Name"
+msgid "CF7 Form"
+msgstr "CF7 formulier"
+
+#: admin/partials/cf7-default-form.php:65
+msgid "Your Message"
+msgstr "Je bericht"
+
+#: admin/partials/cf7-default-form.php:60
+msgid "Your Email"
+msgstr "Je e-mail"
+
+#: admin/partials/cf7-default-form.php:58
+msgid "Your Name"
+msgstr "Je naam"
+
+#: admin/class-cf7-grid-layout-admin.php:1955
+msgid "Search Form Page"
+msgstr "Zoek formulier pagina"
+
+#: admin/class-cf7-grid-layout-admin.php:1954
+msgid "View Form Pages"
+msgstr "Bekijk formulier pagina's"
+
+#: admin/class-cf7-grid-layout-admin.php:1953
+msgid "View Form Page"
+msgstr "Bekijk formulier pagina"
+
+#: admin/class-cf7-grid-layout-admin.php:1952
+msgid "Update Form Page"
+msgstr "Formulier pagina updaten"
+
+#: admin/class-cf7-grid-layout-admin.php:1951
+msgid "Edit Form Page"
+msgstr "Formulier pagina bewerken"
+
+#: admin/class-cf7-grid-layout-admin.php:1946
+msgid "Parent Item:"
+msgstr "Hoofditem:"
+
+#: admin/partials/pointers/cf7sg-pointer-editor-preview-form.php:7
+msgid "Preview form"
+msgstr "Formulier voorvertonen"
+
+#: admin/class-cf7-grid-layout-admin.php:1942
+msgctxt "Post Type General Name"
+msgid "CF7 Forms"
+msgstr "CF7 Forms"
+
+#: admin/class-cf7-grid-layout-admin.php:1947
+msgid "All Form Pages"
+msgstr "Alle formulier pagina's"
+
+#: admin/class-cf7-grid-layout-admin.php:1950
+msgid "New Form Page"
+msgstr "Nieuw formulier pagina"
+
+#: admin/class-cf7-grid-layout-admin.php:1948
+msgid "Add New Form Page"
+msgstr "Nieuw formulier pagina toevoegen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:205
+msgid "change slide"
+msgstr "wijzig slide"
+
+#: admin/class-cf7-grid-layout-admin.php:1902
+msgid "Version validated, thank you!"
+msgstr "Versie gevalideerd, bedankt!"
+
+#: admin/class-cf7-grid-layout-admin.php:201
+msgid "Unable to validate, please reload!"
+msgstr "Valideren niet gelukt, laad opnieuw!"
+
+#: admin/class-cf7-grid-layout-admin.php:199
+msgid "Validating your update..."
+msgstr "Je update aan het valideren ..."
+
+#: includes/class-cf7-grid-layout-activator.php:37
+msgid "This plugin requires the Contact Form 7 plugin to be activated first"
+msgstr "Voor deze plugin moet eerst de plugin Contact Form 7 worden geactiveerd"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:305
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:32
+msgid "Advanced forms"
+msgstr "Geavanceerde formulieren"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:31
+msgid "Multi-slide forms"
+msgstr "Meerdere formulieren"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:30
+msgid "Repetitive fields"
+msgstr "Herhalende velden"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:29
+msgid "Optional sections"
+msgstr "Optionele secties"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:28
+msgid "Dynamic lists"
+msgstr "Dynamische lijsten"
+
+#: assets/cf7-admin-table/admin/partials/cf7sg-tutorial-page.php:27
+msgid "Start"
+msgstr "Begin"
+
+#: admin/class-cf7-grid-layout-admin.php:1354
+#: admin/partials/cf7-dynamic-tag-display.php:292
+msgid "Copy the following <a class=\"%s\" href=\"javascript:void(0);\">filter</a> to your <em>functions.php</em> file."
+msgstr "Kopieer het volgende <a class=\"%s\" href=\"javascript:void(0);\">filter</a> naar je <em>functions.php</em> bestand."
+
+#: admin/partials/pointers/cf7sg-pointers-editor-optional-js-css.php:4
+msgid "Customise your form"
+msgstr "Pas je formulier aan"
+
+#: admin/partials/cf7-dynamic-tag-display.php:260
+msgid "Include post links"
+msgstr "Sluit bericht links in"
+
+#: admin/partials/pointers/cf7sg-pointer-tutorials.php:6
+msgid "Online video tutorials with step-by-step instructions on how leverage the full power of the smart grid cf7 form editor."
+msgstr "Online video lessen met stap-voor-stap instructies over hoe je de kracht van de smart grid cf7 form editor ten volle benut."
+
+#: admin/partials/pointers/cf7sg-pointer-tutorials.php:4
+msgid "Online video tutorials"
+msgstr "Online video lessen"
+
+#: admin/partials/pointers/cf7sg-pointers-editor-optional-js-css.php:6
+msgid "Use the CSS or JS editor to further customise your form.  The css/js files will be saved in your themes folder and will be loaded only on the page where your form is displayed"
+msgstr "Gebruik de CSS of JS editor om je formulier verder aan te passen.  De css/js-bestanden worden opgeslagen in je themamap en worden alleen geladen op de pagina waar je formulier wordt weergegeven"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:249
+msgid "Enable accordion"
+msgstr "Accordeon inschakelen "
+
+#: admin/partials/cf7-grid-layout-admin-display.php:48
+msgid "Add custom CSS"
+msgstr "Aangepaste CSS toevoegen"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:37
+#: admin/partials/cf7-grid-layout-admin-display.php:60
+msgid "File"
+msgstr "Bestand"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:33
+#: admin/partials/cf7-grid-layout-admin-display.php:56
+#: admin/partials/cf7-grid-layout-admin-display.php:88
+msgid "Dark"
+msgstr "Donker"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:30
+#: admin/partials/cf7-grid-layout-admin-display.php:53
+#: admin/partials/cf7-grid-layout-admin-display.php:85
+msgid "Light"
+msgstr "Licht"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:25
+msgid "Add custom JS"
+msgstr "Aangepaste JS toevoegen"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:76
+msgid "the taxonomy query."
+msgstr "de taxonomie query."
+
+#: admin/partials/helpers/cf7sg-js-events.php:267
+msgid "Others"
+msgstr "Overige"
+
+#: admin/partials/helpers/cf7sg-js-events.php:225
+msgid "value change"
+msgstr "waarde aanpassing"
+
+#: admin/partials/helpers/cf7sg-js-events.php:214
+msgid "Form fields"
+msgstr "Formulier velden"
+
+#: admin/partials/helpers/cf7sg-js-events.php:237
+msgid "get form field"
+msgstr "formulierveld ophalen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:171
+msgid "open/close section"
+msgstr "openen/sluit sectie"
+
+#: admin/partials/helpers/cf7sg-js-events.php:165
+msgid "section activated"
+msgstr "sectie geactiveerd"
+
+#: admin/partials/helpers/cf7sg-js-events.php:141
+msgid "section ready"
+msgstr "sectie klaar"
+
+#: admin/partials/helpers/cf7sg-js-events.php:42
+msgid "row removed"
+msgstr "rij verwijderd"
+
+#: admin/partials/helpers/cf7sg-js-events.php:34
+msgid "row added"
+msgstr "rij toegevoegd"
+
+#: admin/partials/helpers/cf7sg-js-events.php:24
+msgid "table ready"
+msgstr "tabel klaar"
+
+#: admin/partials/helpers/cf7sg-js-events.php:18
+msgid "Tables"
+msgstr "Tabellen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:44
+#: admin/partials/helpers/cf7sg-js-events.php:50
+#: admin/partials/helpers/cf7sg-js-events.php:56
+#: admin/partials/helpers/cf7sg-js-events.php:62
+#: admin/partials/helpers/cf7sg-js-events.php:68
+#: admin/partials/helpers/cf7sg-js-events.php:103
+#: admin/partials/helpers/cf7sg-js-events.php:109
+#: admin/partials/helpers/cf7sg-js-events.php:115
+#: admin/partials/helpers/cf7sg-js-events.php:121
+#: admin/partials/helpers/cf7sg-js-events.php:127
+#: admin/partials/helpers/cf7sg-js-events.php:167
+#: admin/partials/helpers/cf7sg-js-events.php:199
+#: admin/partials/helpers/cf7sg-js-events.php:207
+#: admin/partials/helpers/cf7sg-js-events.php:227
+#: admin/partials/helpers/cf7sg-js-events.php:239
+msgid "Function: "
+msgstr "Functie:"
+
+#: admin/partials/helpers/cf7sg-js-events.php:14
+msgid "form ready"
+msgstr "formulier klaar"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:513
+msgid "cf7form shortcode key error, unable to find form, did you update your form key?"
+msgstr "cf7form shortcode key fout, kan het formulier niet vinden, is de formulier sleutel geüpdatet?"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:276
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: admin/partials/helpers/cf7sg-js-events.php:279
+msgid "Show comments in helper code"
+msgstr "Toon reacties in de helper code"
+
+#: admin/partials/helpers/cf7sg-js-events.php:243
+msgid "display a message"
+msgstr "Toon een bericht"
+
+#: admin/partials/helpers/cf7sg-js-events.php:135
+msgid "Collapsible rows"
+msgstr "Invouwbare rijen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:76
+msgid "Tabs"
+msgstr "Tabs"
+
+#: admin/partials/helpers/cf7sg-js-events.php:60
+#: admin/partials/helpers/cf7sg-js-events.php:125
+msgid "toggle delete button"
+msgstr "Toggle knop aan/uit"
+
+#: admin/partials/helpers/cf7sg-js-events.php:54
+#: admin/partials/helpers/cf7sg-js-events.php:119
+msgid "toggle add button"
+msgstr "toggle knop aan/uit"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:250
+msgid "Enable slider"
+msgstr "Slider inschakelen"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:27
+#: admin/partials/cf7-grid-layout-admin-display.php:50
+#: admin/partials/cf7-grid-layout-admin-display.php:82
+msgid "Editor theme:"
+msgstr "Editor thema:"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:271
+msgid "custom options ."
+msgstr "aangepaste opties."
+
+#: admin/partials/cf7-grid-layout-admin-display.php:250
+msgid "Convert collapsible rows into sides"
+msgstr "Invouwbare rijen omzetten in zijden"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:249
+msgid "Group collapsible rows as jQuery accordion"
+msgstr "Groepeer invouwbare rijen als jQuery accordeon"
+
+#: admin/partials/helpers/cf7sg-js-events.php:84
+msgid "tabs ready"
+msgstr "tabs klaar"
+
+#: admin/partials/helpers/cf7sg-js-events.php:48
+msgid "add a row"
+msgstr "een rij toevoegen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:10
+#: admin/partials/helpers/cf7sg-js-events.php:20
+#: admin/partials/helpers/cf7sg-js-events.php:26
+#: admin/partials/helpers/cf7sg-js-events.php:36
+#: admin/partials/helpers/cf7sg-js-events.php:78
+#: admin/partials/helpers/cf7sg-js-events.php:86
+#: admin/partials/helpers/cf7sg-js-events.php:95
+#: admin/partials/helpers/cf7sg-js-events.php:137
+#: admin/partials/helpers/cf7sg-js-events.php:143
+#: admin/partials/helpers/cf7sg-js-events.php:177
+#: admin/partials/helpers/cf7sg-js-events.php:186
+#: admin/partials/helpers/cf7sg-js-events.php:216
+msgid "Event: "
+msgstr "Event: "
+
+#: admin/partials/helpers/cf7sg-js-events.php:93
+msgid "tab added"
+msgstr "tab toegevoegd"
+
+#: admin/partials/helpers/cf7sg-js-events.php:101
+msgid "tab removed"
+msgstr "tab verwijderd"
+
+#: admin/partials/helpers/cf7sg-js-events.php:107
+msgid "add a tab"
+msgstr "een tab toevoegen"
+
+#: admin/partials/helpers/cf7sg-js-events.php:175
+msgid "Slides"
+msgstr "Slides"
+
+#: admin/partials/helpers/cf7sg-js-events.php:184
+msgid "slider ready"
+msgstr "slider gereed"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:275
+msgid "Smart Grid Helper Tutorials "
+msgstr "Smart Grid Helper lessen "
+
+#: admin/partials/pointers/cf7sg-pointer-editor-tabs.php:12
+msgid "CF7 Smart Grid extension replaces the Contact Form 7 textarea editor with a <b>UI Grid editor</b> and a colour markup text editor, use this tab to switch between the two.<br />  <b>NOTE</b> that previous forms designed using the CF7 plugin editor will be editable in the text editor only.<br /><b>Clear this form</b> by switching to the text mode, selecting everything and deleting the code. Switch back to the grid editor to start with a blank form."
+msgstr "CF7 Smart Grid extensie vervangt de Contact Form 7 textarea editor door een <b>UI Grid editor</b> en een kleuren markup tekst editor, gebruik dit tabblad om tussen de twee te schakelen.<br /> <b>MERK OP</b> dat eerdere formulieren die zijn ontworpen met de CF7 plugin editor alleen bewerkbaar zullen zijn in de tekst editor.<br /><b>Maak dit formulier leeg</b> door over te schakelen naar de tekst mode, alles te selecteren en de code te verwijderen. Schakel terug naar de raster-editor om met een leeg formulier te beginnen."
+
+#: admin/partials/pointers/cf7sg-pointer-editor-tabs.php:11
+#: admin/partials/pointers/cf7sg-pointer-editor-tabs.php:14
+msgid "Switch Editors"
+msgstr "Wissel van editor"
+
+#: admin/partials/pointers/cf7sg-pointer-tag-dynamic-dropdown.php:6
+msgid "This tag allows you to build dynamic drodown select fields whose options are populated by a list of taxonomy terms, post titles, or a custom programmatically created list using the filter."
+msgstr "Met deze tag kun je dynamische dropdown keuzevelden maken waarvan de opties worden gevuld door een lijst van taxonomie termen, post titels, of een aangepaste programmatisch gemaakte lijst met behulp van het filter."
+
+#: admin/partials/pointers/cf7sg-pointer-tag-dynamic-dropdown.php:4
+msgid "Dynamic dropdown field"
+msgstr "Dynamisch dropdown veld"
+
+#: admin/partials/pointers/cf7sg-pointer-editor-full-screen.php:5
+msgid "Toggle full-screen mode to ease coding of your form."
+msgstr "Zet volledig scherm aan om makkelijker de code van je form te kunnen wijzigen."
+
+#: admin/partials/pointers/cf7sg-pointer-editor-full-screen.php:4
+msgid "Edit in full screen"
+msgstr "Bewerk in volledig scherm"
+
+#: admin/partials/pointers/cf7sg-pointer-tag-benchmark.php:5
+msgid "This tag allows you to add number fields with benchmark validations, when a limit is breached a js script will display your warning message without the user having to submit the form for validation."
+msgstr "Met deze tag kunt u getalvelden toevoegen met een controle getal, wanneer een limiet wordt overschreden zal een js script uw waarschuwingsbericht tonen zonder dat de gebruiker het formulier hoeft in te dienen voor controle."
+
+#: includes/class-cf7sg-dynamic-list.php:726
+msgid "Enable multiple selection"
+msgstr "Meervoudige selectie toestaan"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:133
+msgid "Add Row"
+msgstr "Rij toevoegen"
+
+#: admin/class-cf7-grid-layout-admin.php:425
+msgid "Filter mailTag %s"
+msgstr "Filter mailTag %s"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/aurovrata"
+msgstr "https://profiles.wordpress.org/aurovrata"
+
+#: admin/partials/pointers/cf7sg-pointer-editor-rows-control.php:11
+msgid "Row controls"
+msgstr "Rij besturing"
+
+#: admin/partials/pointers/cf7sg-pointer-editor-tabs.php:15
+msgid "<b>Grid editor disabled!</b>  This form's HTML markup is not compatible.  The Smart Grid encodes forms with a HTML markup that allows rich responsive layouts.  Create a new form to experience the grid editor."
+msgstr "<b>Grid editor uitgeschakeld!</b> De HTML opmaak van dit formulier is niet compatibel.  De Smart Grid codeert formulieren met een HTML-markup die rijke responsieve lay-outs mogelijk maakt.  Maak een nieuw formulier om de raster editor te ervaren."
+
+#: admin/partials/pointers/cf7sg-pointer-editor-column-control.php:11
+msgid "Column controls"
+msgstr "Kolom besturing"
+
+#: admin/partials/cf7-admin-editor-display.php:25
+msgid "toggle full screen"
+msgstr "toggle volledig scherm"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:289
+msgid "the mail tag value."
+msgstr "waarde van de mail tag."
+
+#: admin/partials/pointers/cf7sg-pointer-tag-benchmark.php:4
+msgid "Benchmark field"
+msgstr "Benchmark veld"
+
+#: admin/partials/pointers/cf7sg-pointer-editor-column-control.php:12
+msgid "Use the column controls to split a row into multiple columns (<span class=\"dashicons dashicons-plus\"></span>), delete a column (<span class=\"dashicons dashicons-trash\"></span>), or move (<span class=\"dashicons dashicons-move\"></span>) an existing column by dragging it within the same row.  <br />Use this link (<span class=\"icon-code\"></span>) to switch to the line of code in the text editor corresponsding to this column.<br />You can also edit a column (<span class=\"dashicons dashicons-edit\"></span>) and <b>convert it into a grid section</b>.  Column grid sections can have multiple rows and mulitple columns.<br />You can also convert a column into a form by inserting an existing sub-form.  This is useful to design and maintain multiple large forms that have common fields."
+msgstr "Gebruik de kolom besturingen om een rij in meerdere kolommen te splitsen (<span class=\"dashicons dashicons-plus\"></span>), een kolom te verwijderen (<span class=\"dashicons dashicons-trash\"></span>), of een bestaande kolom te verplaatsen (<span class=\"dashicons dashicons-move\"></span>) door hem binnen dezelfde rij te slepen.  <br />Gebruik deze link (<span class=\"icon-code\"></span>) om naar de regel code in de teksteditor te gaan die bij deze kolom hoort.<br />Je kunt ook een kolom bewerken (<span class=\"dashicons dashicons-edit\"></span>) en <b>omzetten in een raster</b>.  Kolom secties kunnen meerdere rijen en kolommen hebben.<br />Je kunt ook een kolom omzetten in een formulier door een bestaand subformulier in te voegen.  Dit is handig voor het ontwerpen en onderhouden van meerdere grote formulieren die gemeenschappelijke velden hebben."
+
+#: admin/partials/cf7-grid-layout-admin-display.php:203
+msgid "Click-to-copy &amp; paste in<br/><em>&lt;theme folder&gt;/js/%s.js</em> file."
+msgstr "Click-to-copy &amp; plakken in<br/><em>&lt;thema folder&gt;/js/%s.js</em> file."
+
+#: admin/partials/pointers/cf7sg-pointer-editor-rows-control.php:12
+msgid "The row controls are in a dark grey box.  You can add new rows (<span class=\"dashicons dashicons-plus\"></span>), delete a row (<span class=\"dashicons dashicons-trash\"></span>), or move (<span class=\" dashicons dashicons-move\"></span>) an existing row by dragging it.  You can also edit a row (<span class=\" dashicons dashicons-edit\"></span>) and convert it into a collapsible section.  Collapsible sections are great to break down a large form."
+msgstr "De rij besturingen bevinden zich in een donkergrijze box.  Je kunt nieuwe rijen toevoegen (<span class=\"dashicons dashicons-plus\"></span>), een rij verwijderen (<span class=\"dashicons dashicons-trash\"></span>), of een bestaande rij verplaatsen (<span class=\" dashicons dashicons-move\"></span>) door deze te verslepen.  Je kunt ook een rij bewerken (<span class=\" dashicons dashicons-edit\"></span>) en deze omzetten in een invouwbare sectie.  Invouwbare secties zijn ideaal om een groot formulier op te splitsen."
+
+#: admin/class-cf7-grid-layout-admin.php:1480
+msgid "Next"
+msgstr "Volgende"
+
+#: admin/class-cf7-grid-layout-admin.php:1436
+msgid "Message displayed when max tables rows reached."
+msgstr "Bericht weergegeven wanneer maximum tabellenrijen bereikt."
+
+#: admin/class-cf7-grid-layout-admin.php:1429
+msgid "Hover message for disabled submit/save button"
+msgstr "Hoverbericht voor uitgeschakelde verzend-/opslagknop"
+
+#: admin/class-cf7-grid-layout-admin.php:1307
+msgid "benchmark"
+msgstr "benchmark"
+
+#: includes/class-cf7sg-dynamic-list.php:713
+msgid "dynamic-dropdown"
+msgstr "dynamische-dropdown"
+
+#: admin/class-cf7-grid-layout-admin.php:800
+msgid "Actions & Filters"
+msgstr "Acties & filters"
+
+#: admin/partials/cf7-helper-metabox-display.php:24
+msgid "Hooks fired after the form is submitted"
+msgstr "Hooks geactiveerd nadat het formulier is ingediend"
+
+#: admin/partials/cf7-helper-metabox-display.php:10
+msgid "Hooks fired prior to the form loading"
+msgstr "Hooks geactiveerd voordat het formulier geladen wordt"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:246
+msgid "user added option."
+msgstr "door gebruiker toegevoegde optie."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:157
+msgid "the default option label."
+msgstr "het standaard optielabel."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:53
+#: admin/partials/helpers/cf7sg-form-fields.php:118
+msgid "the option label."
+msgstr "het optielabel."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:35
+msgid "query arguments to retrieve posts for dynamic dropdown."
+msgstr "query argumenten om berichten op te halen voor dynamische dropdown."
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:56
+msgid "the form wrapper css id."
+msgstr "het formulier wrapper css id."
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:45
+msgid "cf7 tag required-html."
+msgstr "cf7 tag vereiste  html."
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:23
+msgid "cf7 tag field pre-html."
+msgstr "cf7 tag veld pre-html."
+
+#: admin/partials/helpers/cf7sg-form-fields.php:35
+#: admin/partials/helpers/cf7sg-form-fields.php:53
+#: admin/partials/helpers/cf7sg-form-fields.php:76
+#: admin/partials/helpers/cf7sg-form-fields.php:99
+#: admin/partials/helpers/cf7sg-form-fields.php:118
+#: admin/partials/helpers/cf7sg-form-fields.php:140
+#: admin/partials/helpers/cf7sg-form-fields.php:157
+#: admin/partials/helpers/cf7sg-form-fields.php:217
+#: admin/partials/helpers/cf7sg-form-fields.php:246
+#: admin/partials/helpers/cf7sg-form-fields.php:271
+#: admin/partials/helpers/cf7sg-form-fields.php:289
+#: admin/partials/helpers/cf7sg-post-form-submit.php:42
+#: admin/partials/helpers/cf7sg-post-form-submit.php:64
+#: admin/partials/helpers/cf7sg-post-form-submit.php:124
+#: admin/partials/helpers/cf7sg-post-form-submit.php:151
+#: admin/partials/helpers/cf7sg-post-form-submit.php:171
+#: admin/partials/helpers/cf7sg-pre-form-load.php:23
+#: admin/partials/helpers/cf7sg-pre-form-load.php:34
+#: admin/partials/helpers/cf7sg-pre-form-load.php:45
+#: admin/partials/helpers/cf7sg-pre-form-load.php:56
+msgid "Filter"
+msgstr "Filter"
+
+#: admin/partials/cf7-info-metabox-display.php:31
+msgid "Manage dynamic lists"
+msgstr "Beheer dynamische lijsten"
+
+#: admin/partials/cf7-dynamic-tag-display.php:284
+msgid "Custom source"
+msgstr "Aangepaste bron"
+
+#: admin/partials/cf7-dynamic-tag-display.php:282
+msgid "Custom"
+msgstr "Aangepast"
+
+#: admin/partials/cf7-dynamic-tag-display.php:156
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: includes/class-cf7sg-dynamic-list.php:720
+msgid "Enable user options"
+msgstr "Schakel gebruikers opties in"
+
+#: includes/class-cf7sg-dynamic-list.php:716
+msgid "jQuery Select2"
+msgstr "jQuery Select2"
+
+#: admin/partials/cf7-dynamic-tag-display.php:46
+msgid "Dropdown style"
+msgstr "Dropdown stijl"
+
+#: admin/partials/cf7-dynamic-tag-display.php:30
+msgid "Field type"
+msgstr "Veldtype"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:232
+msgid "Column size:"
+msgstr "Kolom breedte:"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:228
+#: admin/partials/cf7-grid-layout-admin-display.php:242
+msgid "nine (3/4<sup>ths</sup>)"
+msgstr "negen (3/4<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:230
+#: admin/partials/cf7-grid-layout-admin-display.php:244
+msgid "eleven (11/12<sup>ths</sup>)"
+msgstr "elf (11/12<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:229
+#: admin/partials/cf7-grid-layout-admin-display.php:243
+msgid "ten (5/6<sup>ths</sup>)"
+msgstr "tien (5/6<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:227
+#: admin/partials/cf7-grid-layout-admin-display.php:241
+msgid "eight (2/3<sup>rds</sup>)"
+msgstr "acht (2/3<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:226
+#: admin/partials/cf7-grid-layout-admin-display.php:240
+msgid "seven (7/12<sup>ths</sup>)"
+msgstr "zeven (7/12<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:225
+msgid "half"
+msgstr "half"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:224
+#: admin/partials/cf7-grid-layout-admin-display.php:238
+msgid "five (5/12<sup>ths</sup>)"
+msgstr "vijf (5/12<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:223
+#: admin/partials/cf7-grid-layout-admin-display.php:237
+msgid "four (1/3<sup>rd</sup>)"
+msgstr "vier (1/3<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:222
+#: admin/partials/cf7-grid-layout-admin-display.php:236
+msgid "three (1/4<sup>th</sup>)"
+msgstr "drie (1/4<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:221
+#: admin/partials/cf7-grid-layout-admin-display.php:235
+msgid "two (1/6<sup>th</sup>)"
+msgstr "twee (1/6<sup>de</sup>)"
+
+#: admin/partials/helpers/cf7sg-js-events.php:8
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:331
+msgid "Form"
+msgstr "Formulier"
+
+#: admin/class-cf7-grid-layout-admin.php:1431
+#: public/class-cf7-grid-layout-public.php:530
+msgid "Disabled!  To enable, check the acceptance field."
+msgstr "Uitgeschakeld!  Om in te schakelen, vink het acceptatie veld aan."
+
+#: admin/partials/cf7-info-metabox-display.php:35
+msgid "Edit"
+msgstr "Bewerken"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:268
+msgid "Form Types"
+msgstr "Formulier types"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:267
+msgid "Edit Form Types"
+msgstr "Bewerk formulier types"
+
+#. Author of the plugin
+msgid "Aurovrata V."
+msgstr "Aurovrata V."
+
+#. Description of the plugin
+msgid "Enabled responsive grid layout designs for Contact Form 7 forms."
+msgstr "Responsive grid layout designs for Contact Form 7 forms ingeschakeld."
+
+#. Plugin Name of the plugin
+msgid "CF7 Smart Grid Design Extension"
+msgstr "CF7 Smart Grid Design Extension"
+
+#: admin/partials/cf7-dynamic-tag-display.php:256
+msgid "Pages"
+msgstr "Pagina's"
+
+#: admin/partials/cf7-dynamic-tag-display.php:255
+msgid "Posts"
+msgstr "Berichten"
+
+#: admin/partials/cf7-dynamic-tag-display.php:214
+msgid "Select a post"
+msgstr "Selecteer een bericht"
+
+#: admin/partials/cf7-dynamic-tag-display.php:212
+msgid "Post source"
+msgstr "Berichtbron"
+
+#: admin/partials/cf7-dynamic-tag-display.php:210
+msgid "Post"
+msgstr "Bericht"
+
+#: admin/partials/cf7-dynamic-tag-display.php:201
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/partials/cf7-dynamic-tag-display.php:199
+msgid "Singular Name"
+msgstr "Enkelvoudige naam"
+
+#: admin/partials/cf7-dynamic-tag-display.php:197
+msgid "Plural Name"
+msgstr "Meervoud naam"
+
+#: admin/partials/cf7-dynamic-tag-display.php:196
+msgid "New Taxonomy"
+msgstr "Nieuwe taxonomie"
+
+#: admin/partials/cf7-dynamic-tag-display.php:180
+msgid "Post Categories"
+msgstr "Berichtcategorieën"
+
+#: admin/partials/cf7-dynamic-tag-display.php:179
+msgid "Post Tags"
+msgstr "Bericht tags"
+
+#: admin/partials/cf7-dynamic-tag-display.php:161
+msgid "New Categories"
+msgstr "Nieuwe categorie"
+
+#: admin/partials/cf7-dynamic-tag-display.php:160
+msgid "Choose a Taxonomy"
+msgstr "Kies taxonomie"
+
+#: admin/partials/cf7-dynamic-tag-display.php:158
+msgid "Taxonomy source"
+msgstr "Taxonomiebron"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:220
+#: admin/partials/cf7-grid-layout-admin-display.php:234
+msgid "one (1/12<sup>th</sup>)"
+msgstr "een (1/12(<sup>de</sup>)"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:219
+msgid "no offset"
+msgstr "geen offset"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:217
+msgid "Column offset:"
+msgstr "Kolom offset:"
+
+#: admin/class-cf7-grid-layout-admin.php:424
+#: admin/partials/cf7-grid-layout-admin-display.php:196
+#: admin/partials/cf7-grid-layout-admin-display.php:202
+msgid "Click to copy!"
+msgstr "Klik om te kopiëren!"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:184
+msgid "Section title"
+msgstr "Sectietitel"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:157
+msgid "Select contact form 7"
+msgstr "Selecteer een Contact Form 7"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:140
+msgid "Tabbed section"
+msgstr "Sectie met tabbladen"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:136
+msgid "Row table footer"
+msgstr "Tabelrij footer"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:132
+msgid "Button label"
+msgstr "Knop label"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:128
+msgid "Row table input"
+msgstr "Rij tabel invoer"
+
+#: admin/partials/pointers/cf7sg-pointer-update-forms.php:3
+msgid "Update your forms"
+msgstr "Update je formulieren"
+
+#: admin/partials/cf7-default-form.php:64
+msgid "the topic of your message"
+msgstr "het onderwerp van je bericht"
+
+#: admin/partials/cf7-default-form.php:63
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: admin/partials/cf7-default-form.php:62
+msgid "Send"
+msgstr "Verzenden"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:264
+msgid "describe your field here"
+msgstr "beschrijf je veld hier"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:263
+msgid "describe your field"
+msgstr "beschrijf je veld"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:259
+msgid "select a field"
+msgstr "selecteer een veld"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:258
+msgid "[select a field]"
+msgstr "[selecteer een veld]"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:253
+#: admin/partials/cf7-grid-layout-admin-display.php:254
+msgid "Field label"
+msgstr "Veldlabel"
+
+#: admin/partials/pointers/cf7sg-pointer-shortcodes.php:4
+msgid "Portable Shortcodes"
+msgstr "Overdraagbare shortcodes"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:248
+msgid "Insert form"
+msgstr "Formulier invoegen"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:147
+#: admin/partials/cf7-grid-layout-admin-display.php:247
+msgid "Make grid"
+msgstr "Raster maken"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:75
+msgid "Grid"
+msgstr "Raster"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:124
+msgid "Row collapsible"
+msgstr "Rij invouwbaar"
+
+#: admin/partials/cf7-default-form.php:61
+msgid "Enter a valid email"
+msgstr "Voer geldig e-mailadres in"
+
+#: admin/class-cf7-grid-layout-admin.php:1438
+#: public/class-cf7-grid-layout-public.php:531
+msgid "You have reached the maximum number of rows."
+msgstr "Je hebt het maximale aantal rijen bereikt."
+
+#: admin/partials/cf7-helper-metabox-display.php:18
+msgid "Post-form-submit hooks"
+msgstr "Post-form-submit hooks"
+
+#: admin/partials/cf7-helper-metabox-display.php:4
+msgid "Pre-form-loading hooks"
+msgstr "Pre-form-loading hooks"
+
+#: admin/partials/helpers/cf7sg-form-fields.php:140
+msgid "the option attributes."
+msgstr "de optie attributen."
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:124
+msgid "Tabled/Tabbed mail tags"
+msgstr "Tabled/Tabbed mail tags"
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:64
+msgid "mail annotation for complex array file field attachments."
+msgstr "mail annotatie voor complexe array bestand veld bijlagen."
+
+#: admin/partials/helpers/cf7sg-post-form-submit.php:42
+msgid "custom form submission validation of any field."
+msgstr "aangepaste formulierinzending validatie van elk veld."
+
+#: includes/class-cf7sg-dynamic-list.php:715
+msgid "HTML Select field"
+msgstr "HTML selectie veld"
+
+#: admin/partials/cf7-dynamic-tag-display.php:40
+msgid "Class attribute"
+msgstr "Klasse attribuut"
+
+#: admin/partials/cf7-dynamic-tag-display.php:34
+msgid "Id attribute"
+msgstr "Id attribuut"
+
+#: admin/partials/cf7-dynamic-tag-display.php:31
+msgid "Required field"
+msgstr "Vereist veld"
+
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:430
+msgid "cf7-form shortcode missing key attribute"
+msgstr "cf7-form shortcode mist sleutel attribuut"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:197
+msgid "Click-to-copy &amp; paste in your <em>functions.php</em> file."
+msgstr "Klik om te kopiëren &amp; plakken in je <em>functions.php</em> bestand."
+
+#: admin/partials/cf7-default-form.php:66
+msgid "Enter a brief message"
+msgstr "Voer een kort bericht in"
+
+#: admin/partials/cf7-default-form.php:59
+msgid "Enter your full name"
+msgstr "Geef je volledige naam in"
+
+#: admin/partials/pointers/cf7sg-pointer-update-forms.php:4
+msgid "When you upgrade the CF7 Smart Grid Extension, there are certain times when an update to your forms is required. This is due to an update in the meta-data that is being saved with each forms.  Failing to do so may result unexpected behaviour of the form functionality."
+msgstr "Wanneer je de CF7 Smart Grid Extension upgrade, zijn er bepaalde momenten waarop een update van je formulieren vereist is. Dit is het gevolg van een update in de meta-data die bij elk formulier wordt opgeslagen.  Als je dit niet doet, kan dit leiden tot onverwacht gedrag van de formulier functionaliteit."
+
+#: admin/partials/pointers/cf7sg-pointer-update-forms.php:5
+msgid "Forms that need to be updated will be <em style=\"color:red;\">highlighted in red</em>."
+msgstr "Formulieren die moeten worden geüpdatet, worden <em style=\"color:red;\">rood gemarkeerd</em>."
+
+#: admin/partials/cf7-info-metabox-display.php:7
+#: assets/cf7-admin-table/admin/cf7-post-admin-table.php:337
+msgid "Form key"
+msgstr "Formuliersleutel"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:184
+msgid "toggled"
+msgstr "toggled"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:191
+msgid "Tab label"
+msgstr "Tab label"
+
+#: admin/partials/pointers/cf7sg-pointer-shortcodes.php:5
+msgid "CF7 Smart Grid extension replaces the Contact Form 7 shortcodes with a more portable one.  Instead of using an ID, the Smart Grid uses the unique <em>cf7Key</em>, which is non other than the slug of the wpcf7_contact_form post, which remains fixed when you export/import your forms and port them to a new server.  Happy coding!"
+msgstr "CF7 Smart Grid extensie vervangt de Contact Form 7 shortcodes door een beter werkende variant.  In plaats van een ID te gebruiken, gebruikt de Smart Grid de unieke <em>cf7Key</em>, die niets anders is dan de slug van de wpcf7_contact_form post, de sleutel blijft behouden wanneer je formulieren exporteert/importeert en ze naar een nieuwe server overzet.  Veel plezier met coderen!"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:239
+msgid "half width"
+msgstr "halve breedte"
+
+#: admin/partials/cf7-grid-layout-admin-display.php:245
+msgid "full width"
+msgstr "volledige breedte"
+
+#: admin/partials/cf7-dynamic-tag-display.php:203
+msgid "hierarchical"
+msgstr "hiërarchisch"
+
+#: admin/partials/helpers/cf7sg-pre-form-load.php:34
+msgid "cf7 tag field post-html."
+msgstr "cf7 tag veld post-html."
+
+#: admin/partials/cf7-helper-metabox-display.php:1
+msgid "Click on a link to copy the helper snippet code and paste it in your <em>functions.php</em> file."
+msgstr "Klik op een link om de helper snippet code te kopiëren en te plakken in je <em>functies.php</em> bestand."
+
+#: admin/partials/cf7-helper-metabox-display.php:6
+#: admin/partials/cf7-helper-metabox-display.php:20
+msgid "Toggle panel: Helper"
+msgstr "Toggle paneel: Helper"
+
+#: admin/class-cf7-grid-layout-admin.php:1949
+msgid "Add New"
+msgstr "Nieuw toevoegen"

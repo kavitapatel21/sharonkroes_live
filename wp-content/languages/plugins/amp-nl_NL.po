@@ -1,0 +1,298 @@
+# Translation of Plugins - AMP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-10 15:05:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - AMP - Stable (latest release)\n"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2578
+msgid "Must-Use Plugin"
+msgstr "Verplichte plugin"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2570
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2574
+#: assets/js/amp-settings.js:27
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2500
+msgid "Name"
+msgstr "Naam"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2503
+msgid "Post ID"
+msgstr "Bericht ID"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2506
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2532
+msgid "Block Name"
+msgstr "Bloknaam"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2535
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2541
+msgid "Function"
+msgstr "Functie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2544
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2551
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2553
+msgid "Action"
+msgstr "Actie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:253
+msgid "All AMP Validation Errors"
+msgstr "Alle AMP validatiefouten"
+
+#. translators: %s: the human-readable time difference.
+#: back-compat/templates-v0-3/meta-time.php:21
+#: includes/validation/class-amp-validation-error-taxonomy.php:1893
+#: templates/meta-time.php:28
+msgid "%s ago"
+msgstr "%s geleden"
+
+#. Author URI of the plugin
+msgid "https://github.com/ampproject/amp-wp/graphs/contributors"
+msgstr "https://github.com/Automattic/amp-wp/graphs/contributors"
+
+#: includes/widgets/class-amp-widget-categories.php:65
+msgid "Select Category"
+msgstr "Selecteer categorie"
+
+#: includes/widgets/class-amp-widget-categories.php:44
+msgid "Categories"
+msgstr "Categorieën"
+
+#: includes/widgets/class-amp-widget-archives.php:87
+msgid "Select Post"
+msgstr "Selecteer bericht"
+
+#: includes/widgets/class-amp-widget-archives.php:84
+msgid "Select Week"
+msgstr "Selecteer week"
+
+#: includes/widgets/class-amp-widget-archives.php:81
+msgid "Select Day"
+msgstr "Selecteer dag"
+
+#: includes/widgets/class-amp-widget-archives.php:78
+msgid "Select Month"
+msgstr "Selecteer maand"
+
+#: includes/widgets/class-amp-widget-archives.php:75
+msgid "Select Year"
+msgstr "Selecteer jaar"
+
+#: includes/class-amp-theme-support.php:829
+#: includes/widgets/class-amp-widget-archives.php:49
+msgid "Archives"
+msgstr "Archief"
+
+#. translators: Meta box date format
+#: includes/validation/class-amp-validated-url-post-type.php:2120
+msgid "M j, Y @ H:i"
+msgstr "j M Y @ H:i"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1716
+#: includes/validation/class-amp-validated-url-post-type.php:2059
+#: assets/js/amp-settings.js:27
+msgid "Status"
+msgstr "Status"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1318
+#: includes/validation/class-amp-validated-url-post-type.php:1357
+#: includes/validation/class-amp-validated-url-post-type.php:2590
+#: includes/validation/class-amp-validation-error-taxonomy.php:1969
+msgid "--"
+msgstr "--"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:894
+msgid "URLs"
+msgstr "URLs"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1849
+#: includes/validation/class-amp-validation-error-taxonomy.php:3376
+msgid "Removed"
+msgstr "Verwijderd"
+
+#: includes/embeds/class-amp-crowdsignal-embed-handler.php:59
+msgid "View Survey"
+msgstr "Bekijk enquête"
+
+#: includes/embeds/class-amp-crowdsignal-embed-handler.php:61
+msgid "View Poll"
+msgstr "Bekijk opiniepeiling"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:57
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:55
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/class-amp-post-meta-box.php:398
+msgid "Unavailable for an unknown reason."
+msgstr "Niet beschikbaar om onbekende reden."
+
+#: includes/admin/class-amp-post-meta-box.php:395
+msgid "A plugin or theme has disabled AMP support."
+msgstr "Een plugin of thema heeft de ondersteuning van AMP uitgeschakeld."
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:28
+msgid "Edit Status"
+msgstr "Bewerk status"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:27
+msgid "Edit"
+msgstr "Bewerk"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:24
+msgid "AMP:"
+msgstr "AMP:"
+
+#: src/Admin/OptionsMenu.php:142 src/Admin/OptionsMenu.php:152
+#: src/ReaderThemeLoader.php:224 assets/js/amp-block-editor.js:9
+#: assets/js/amp-block-validation.js:1
+msgid "AMP Settings"
+msgstr "AMP instellingen"
+
+#: includes/admin/class-amp-post-meta-box.php:328
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:327
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:197
+msgid "Preview changes in AMP (opens in new window)"
+msgstr "Voorbeeld van wijzigingen in AMP (opent in nieuw venster)"
+
+#: includes/admin/class-amp-template-customizer.php:749
+msgid "AMP preview enabled"
+msgstr "AMP voorbeeld ingeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:102
+msgid "AMP status."
+msgstr "AMP status."
+
+#: includes/admin/class-amp-template-customizer.php:608
+msgid "Navigate to an AMP compatible page"
+msgstr "Navigeer naar een AMP-geschikte pagina"
+
+#: includes/admin/class-amp-template-customizer.php:607
+msgid "AMP is not available for the page currently being previewed."
+msgstr "AMP is niet beschikbaar voor de voorbeeldpagina die je nu bekijkt. "
+
+#: includes/validation/class-amp-validated-url-post-type.php:1709
+#: includes/validation/class-amp-validation-error-taxonomy.php:1644
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: src/Admin/AnalyticsOptionsSubmenu.php:59
+#: src/Admin/AnalyticsOptionsSubmenu.php:60 assets/js/amp-settings.js:29
+msgid "Analytics"
+msgstr "Analytics"
+
+#. translators: %s is sanitizer class
+#: includes/templates/class-amp-content-sanitizer.php:83
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Sanitizer (%s) klasse bestaat niet"
+
+#: templates/footer.php:24
+msgid "Back to top"
+msgstr "Terug naar boven"
+
+#. translators: %s: list of categories.
+#: templates/meta-taxonomy.php:27
+msgid "Categories: %s"
+msgstr "Categorieën: %s"
+
+#: includes/settings/class-amp-customizer-design-settings.php:168
+msgid "Color Scheme"
+msgstr "Kleurschema"
+
+#: includes/settings/class-amp-customizer-design-settings.php:130
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/templates/class-amp-post-template.php:342
+msgid "Leave a Comment"
+msgstr "Plaats een reactie"
+
+#: includes/templates/class-amp-post-template.php:343
+msgid "View Comments"
+msgstr "Bekijk reacties"
+
+#: includes/settings/class-amp-customizer-design-settings.php:292
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/settings/class-amp-customizer-design-settings.php:291
+msgid "Light"
+msgstr "Licht"
+
+#. translators: %s: list of tags.
+#: templates/meta-taxonomy.php:44
+msgid "Tags: %s"
+msgstr "Tags: %s"
+
+#: includes/settings/class-amp-customizer-design-settings.php:142
+msgid "Header Text Color"
+msgstr "Koptekstkleur"
+
+#: includes/settings/class-amp-customizer-design-settings.php:156
+msgid "Header Background & Link Color"
+msgstr "Kopachtergrond & linkkleur"
+
+#. Plugin Name of the plugin
+#: includes/amp-helper-functions.php:1931
+#: includes/validation/class-amp-validation-manager.php:379
+#: includes/templates/amp-paired-browsing.php:30
+#: includes/admin/class-amp-admin-pointers.php:66
+#: includes/admin/class-amp-template-customizer.php:267
+#: includes/admin/functions.php:126 includes/admin/functions.php:127
+#: src/Admin/OptionsMenu.php:143 src/Admin/SiteHealth.php:134
+#: src/Admin/SiteHealth.php:175 src/Admin/SiteHealth.php:248
+#: src/Admin/SiteHealth.php:315 src/Admin/SiteHealth.php:380
+#: src/Admin/SiteHealth.php:399 assets/js/amp-onboarding-wizard.js:5
+msgid "AMP"
+msgstr "AMP"
+
+#: back-compat/templates-v0-3/meta-taxonomy.php:8
+#: back-compat/templates-v0-3/meta-taxonomy.php:17
+#: templates/meta-taxonomy.php:21 templates/meta-taxonomy.php:35
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %s is key name
+#: includes/templates/class-amp-post-template.php:200
+msgid "Called for non-existent key (\"%s\")."
+msgstr "Aanroep voor een niet-bestaande sleutel (\"%s\")."
+
+#. translators: 1: the template file, 2: WP_CONTENT_DIR.
+#: includes/templates/class-amp-post-template.php:473
+msgid "Path validation for template (%1$s) failed. Path cannot traverse and must be located in `%2$s`."
+msgstr "Validatie van het pad voor het template (%1$s) is niet geslaagd. Het pad moet zich bevinden binnen `%2$s`."
